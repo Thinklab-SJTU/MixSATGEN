@@ -1,0 +1,60 @@
+aiohttp==3.9.3
+aiosignal==1.3.1
+appdirs==1.4.4
+async-timeout==4.0.3
+attrs==23.2.0
+blinker==1.7.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.7
+CNFgen @ git+ssh://git@github.com/zhaoyu-li/cnfgen.git@cecdd45d8882fa22b7ce6749a37c44742ea03680
+community==1.0.0b1
+contourpy==1.1.0
+cycler==0.11.0
+easydict==1.13
+Flask==3.0.2
+fonttools==4.42.0
+frozenlist==1.4.1
+g4satbench @ file:///mnt/nas2/home/chenxinyan/G4SATBench
+idna==3.4
+importlib-resources==6.0.1
+importlib_metadata==7.0.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib==1.3.1
+kiwisolver==1.4.4
+kmeans-pytorch @ git+ssh://git@github.com/zhaoyu-li/kmeans_pytorch.git@97b169af99790704c576962414ee8733ce9db22a
+MarkupSafe==2.1.3
+matplotlib==3.7.2
+multidict==6.0.5
+networkx==3.1
+numpy==1.25.2
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+packaging==23.1
+Pillow==10.0.0
+psutil==5.9.5
+PuLP==2.8.0
+pydot==1.4.2
+pygmtools==0.5.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-louvain==0.16
+python-sat==0.1.7.dev26
+requests==2.31.0
+scikit-learn==1.3.0
+scipy==1.11.1
+six==1.16.0
+threadpoolctl==3.2.0
+torch==1.13.1
+torch-geometric==2.2.0
+torch-scatter @ file:///mnt/nas2/home/chenxinyan/G4SATBench/tmp/torch_scatter-2.1.0%2Bpt113cu117-cp39-cp39-linux_x86_64.whl#sha256=932eca78b42d8a97dc765b540bb314fa9f549ab7c9b2b5adb12fabec6594d0be
+torch-sparse @ file:///mnt/nas2/home/chenxinyan/G4SATBench/tmp/torch_sparse-0.6.16%2Bpt113cu117-cp39-cp39-linux_x86_64.whl#sha256=a88561601b078f50ac19b86c6acfa7f2621bf378e9da4a95223d933b0754f28e
+tqdm==4.65.0
+typing_extensions==4.7.1
+urllib3==2.0.4
+Werkzeug==3.0.1
+yarl==1.9.4
+zipp==3.16.2
